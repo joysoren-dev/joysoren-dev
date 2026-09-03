@@ -6,32 +6,39 @@
 
 ### Aspiring Full Stack Developer
 
-📍 Bangladesh  
-📧 [joysoren4@gmail.com](mailto:joysoren4@gmail.com)
+Building my skills in modern web development, learning through projects, and continuously improving my problem-solving abilities.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an aspiring Full Stack Developer with a growing interest in building modern and user-friendly web applications. I enjoy learning new technologies, solving problems, and continuously improving my development skills.
+I'm an aspiring Full Stack Developer with a growing interest in building modern, responsive, and user-friendly web applications.
+
+I enjoy learning new technologies, solving programming problems, and turning ideas into practical projects. Currently, I'm focused on strengthening my core development skills and growing step by step as a developer.
 
 ---
 
 ## 🌱 Currently
 
-- 🚀 Learning React and modern web development
-- 💻 Improving my JavaScript & TypeScript skills
+- 🚀 Learning **React** and modern web development
+- 💻 Improving my **JavaScript** and **TypeScript** skills
 - 🧩 Building projects and solving programming problems
-- 📚 Continuously learning and improving every day
+- 📚 Continuously learning and improving my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Frontend
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github,vscode" />
+### Backend & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode" />
 </p>
 
 ---
